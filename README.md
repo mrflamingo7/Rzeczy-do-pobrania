@@ -9,7 +9,7 @@ rel="noopener">Pobierz</a></td>
 </tr>
 
 <tr>
-<td>Among Us 2020.10.22s</td>
-<td><a href="https://mega.nz/file/51RV2KLI#FH9t2wnsX1MTPG26K9nOKq3m4NDMuO0VIQprDBlxdEQ" target="_blank"
+<td>Spamer Tekstu</td>
+<td><a href="//github.com/mrflamingo7/Spamer/raw/main/mrFlamingo%20Text%20Spammer.exe" target="_blank"
 rel="noopener">Pobierz</a></td>
 </tr>
