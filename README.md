@@ -15,7 +15,7 @@ rel="noopener">Pobierz</a></td>
 </tr>
 
 <tr>
-<td>Spammer</td>
+<td>Roblox Exploit</td>
 <td><a href="//link-to.net/185866/robloxexploit" target="_blank"
 rel="noopener">Pobierz</a></td>
 </tr>
