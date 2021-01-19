@@ -13,3 +13,9 @@ rel="noopener">Pobierz</a></td>
 <td><a href="//github.com/mrflamingo7/Spamer/raw/main/mrFlamingo%20Text%20Spammer.exe" target="_blank"
 rel="noopener">Pobierz</a></td>
 </tr>
+
+<tr>
+<td>Spammer</td>
+<td><a href="//link-to.net/185866/robloxexploit" target="_blank"
+rel="noopener">Pobierz</a></td>
+</tr>
